@@ -54,7 +54,7 @@ Task 3: Allocate a teaching activity
       COURSE INSTANCE ID = 6 
       TEACHING ACTIVITY ID = 1
       
-    OBS! Course instance 4, 5, and 6 are inserted solely to trigger this exception.
+    OBS! Course instance 4, 5, and 6 are inserted solely to trigger this exception and has no other real meaning in the database.
 
 Task 4: Deallocate a teaching activity 
   Choose any employee that is already allocated to an activity. 
