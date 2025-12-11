@@ -16,7 +16,7 @@ RUNNING THE PROGRAM:
 
 1. Open a terminal and navigate into the directory:
    cd teaching-app
-2. Run the program with Maven:
+2. Run the program in the terminal with Maven:
    mvn exec:java -Dexec.mainClass="se.michel.project.view.Main"
 
 =======================================================================================
